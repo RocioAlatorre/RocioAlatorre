@@ -1,6 +1,6 @@
 ## Hi, I´m Rocio!
 
-I’m currently learning HTML, CSS and JavaScript 🖥️
+I’m currently learning data analysis 🖥️
 
 Contact me: alatorre.mrocio@gmail.com
 
